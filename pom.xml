@@ -30,6 +30,12 @@
 			<groupId>com.azure.spring</groupId>
 			<artifactId>azure-spring-boot-starter-storage</artifactId>
 		</dependency>
+		<!--  -->
+		<dependency>
+		  <groupId>com.azure</groupId>
+		  <artifactId>azure-storage-queue</artifactId>
+		  <version>12.10.0</version>
+		</dependency>
 		
 		<dependency>
 			<groupId>org.projectlombok</groupId>
