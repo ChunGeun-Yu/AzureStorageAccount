@@ -70,7 +70,7 @@ class AzureStorageAccountApplicationTests {
 	}
 	
 	
-	@Test
+	//@Test
 	void listQueue() {
 		String queueURL = String.format("https://%s.queue.core.windows.net/%s", "developerysa", "sa-queue");
 
